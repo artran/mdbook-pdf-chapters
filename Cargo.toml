@@ -10,10 +10,7 @@ name = "mdbook-pdf-chapters"
 readme = "README.md"
 repository = "https://github.com/artran/mdbook-pdf-chapters"
 version = "0.1.14"
-include = [
-    "**/*.rs",
-    "Cargo.toml",
-]
+include = ["**/*.rs", "Cargo.toml", "LICENSE"]
 
 [[bin]]
 name = "mdbook-pdf"
